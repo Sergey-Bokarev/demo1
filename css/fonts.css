@@ -1,0 +1,24 @@
+@font-face {
+  font-family: SlingBold;
+  src: url('../fonts/SlingBold.ttf');
+}
+@font-face {
+  font-family: SlingNormal;
+  src: url('../fonts/Sling.ttf');
+}
+@font-face {
+  font-family: HelveticaLight;
+  src: url('../fonts/Helvetica-Light.ttf');
+}
+@font-face {
+  font-family: MyriadProRegular;
+  src: url('../fonts/MyriadProRegular.ttf');
+}
+@font-face {
+  font-family: PTSansBold;
+  src: url('../fonts/PT_Sans-Web-Bold.ttf');
+}
+@font-face {
+  font-family: PTSansRegular;
+  src: url('../fonts/PT_Sans-Web-Regular.ttf');
+}
